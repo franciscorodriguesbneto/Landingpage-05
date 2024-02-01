@@ -102,3 +102,36 @@ span {
     
  }
 
+ .principal2 {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    border: 3px solid red;
+    ;
+
+ }
+
+ .img {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    width: 100px;
+    height: 100px;
+
+ }
+ 
+section {
+    width: 100%;
+    
+    background: gray;
+    border: 3px solid rgb(20, 20, 20);
+
+
+}
+
+
+
+
+
